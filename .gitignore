@@ -1,0 +1,18 @@
+# Ignore virtual environments
+yolo_env/
+
+# Ignore videos and models
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.pt
+
+# Ignore cache and compiled files
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
