@@ -19,7 +19,7 @@ This project enables automatic football player detection and tracking using a cu
 ## 🗂️ Project Structure
 
 ```
-football_project_opencv/
+FootyTrack/
 ├── input_videos/
 │   └── 08fd33_4.mp4               # Raw input video file
 ├── output_videos/
